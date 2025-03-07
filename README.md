@@ -69,8 +69,8 @@ This project requires two custom Python modules to be installed:
 Install these modules using pip:
 
 ```
-!pip install git+ssh://git@github.com/fraziphy/linear_decoder.git
-!pip install git+ssh://git@github.com/fraziphy/balanced_spiking_network.git
+!pip install git+ssh://git@github.com/fraziphy/linear-decoder.git
+!pip install git+ssh://git@github.com/fraziphy/balanced-spiking-network.git
 ```
 
 Ensure you have Python 3.7 or higher installed.
